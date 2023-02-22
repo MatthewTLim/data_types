@@ -1,7 +1,7 @@
-name = matt
-location = denver
-pet = cat
-pets_name = lily
+name = "matthew"
+location = "denver"
+pet = "cat"
+pets_name = "lily"
 
 age = 29
 cats_age = 1
@@ -17,3 +17,15 @@ happy = true
 sad = false
 excited = true
 nervous = true
+
+name = "Matt"
+location = "Colorado"
+pets_name = "Lilith"
+
+puts name
+puts location 
+puts pets_name
+
+output = "My name is #{name} and my age is #{age}. I have a cat named #{pets_name}, and she is #{cats_age} years old."
+
+puts output
