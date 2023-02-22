@@ -12,3 +12,8 @@ gold = 9999.99
 silver = 9.5
 copper = 1.5
 bronze = 1.2
+
+happy = true
+sad = false
+excited = true
+nervous = true
